@@ -1,5 +1,5 @@
 Please download all the files
-Program file in file "scrapy"
+Program file in file "Scrapy"
 First file:Uniersity_TW.py
   1. use Scrpy, BeautifulSoup
   2. type "scrapy crawl Uniersity_TW" to terminal
