@@ -14,6 +14,7 @@
 # 課程筆記區 
 # 作業連結區 
 ## 作業一
+> Github: <[https://github.com/ett9292/PL/blob/main/hw01/hw1_PandasApplication.ipynb](https://github.com/carterwu1120/LATIA112-1/tree/main/HW2)https://github.com/carterwu1120/LATIA112-1/tree/main/HW2>
 ## 作業二
 ## 作業三
 # 專題連結區
