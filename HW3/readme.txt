@@ -9,3 +9,5 @@ Operational Step:
 Channel ID:2001536429
 Channel name:Bot
 Functions:It can respond with sentiment, sentiment score, subject, noun, and the category of nouns from a sentence.
+
+Some user(student) may know less words. It can help user(student) find the noun and the category of nouns form a sentence.
