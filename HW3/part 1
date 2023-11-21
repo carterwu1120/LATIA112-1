@@ -1,1 +1,4 @@
-
+Using 'recognize_entities' to extract entities from the sentence.
+It can assist users in identifying the category to which each noun in the sentence belongs.
+This aids Mandarin or lower literacy level students in reading the sentence.
+part 1 implementation is included in the part 2 code
