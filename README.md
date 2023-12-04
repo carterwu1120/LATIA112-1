@@ -21,5 +21,5 @@
 ## 作業三
 > Github: <https://github.com/carterwu1120/LATIA112-1/tree/main/HW3>
 ## 作業四
-> Github: <https://github.com/carterwu1120/LATIA112-1/tree/main/HW4>
+> Github: <https://github.com/carterwu1120/HW4>
 # 專題連結區
